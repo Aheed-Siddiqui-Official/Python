@@ -1,0 +1,11 @@
+AI, Ml, DL Algorithms
+
+If label/target supervised learning e.g.mcqs
+If no label unsupervised learning
+
+Supervised learning two types:
+Classification
+Regression
+
+Supervised learning is when a Model is built with prior knowledge maps, a method that is
+referred to as “Training”.
