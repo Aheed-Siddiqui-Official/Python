@@ -1,0 +1,13 @@
+,Date,Weekday,Month,Temperature,Humidity,Wind,Outlook,Crowdedness
+0,03-25,Mon,Mar,High,Dry,No,sunny,85
+1,03-26,Tue,Mar,Low,Humid,Yes,rainy,30
+2,03-27,Wed,Mar,High,Dry,Yes,overcast,65
+3,03-28,Thu,Mar,Extreme,Dry,Yes,sunny,45
+4,03-29,Fri,Mar,Low,Humid,No,rainy,25
+5,03-30,Sat,Mar,High,Humid,No,overcast,90
+6,03-31,Sun,Mar,High,Dry,Yes,sunny,95
+7,04-01,Mon,Apr,Low,Humid,No,rainy,35
+8,04-02,Tue,Apr,High,Dry,Yes,sunny,70
+9,04-03,Wed,Apr,Extreme,Dry,Yes,overcast,50
+10,04-04,Thu,Apr,High,Humid,No,sunny,80
+11,04-05,Fri,Apr,Low,Dry,Yes,rainy,45
